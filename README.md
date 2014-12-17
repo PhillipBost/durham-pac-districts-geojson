@@ -4,7 +4,7 @@ Durham has five Partners Against Crime (PAC) Districts which mirror Durham's Pol
 
 PAC Districts act as community hubs where neighbors, police, and local politicians meet to discuss problems and potential solutions.
 
-My goal is to create a GeoJSON map of each Durham PAC District as part of my [Durham Hoods](http://durhamhoods.com) project.
+My goal is to create a GeoJSON map of each Durham PAC District as part of my [DurhamHoods.com](http://durhamhoods.com) project.
 
 |District|Police District         |Community Web Page|Mailing List|Map Resources|
 |:-------|:----------------------:|:----------------:|:----------:|:------------:|
